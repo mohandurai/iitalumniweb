@@ -16,11 +16,43 @@
         </a>
       </li>
 
-      <li class="nav-item ">
-        <a href="{{ url('/project') }}" class="nav-link">
-          <i class="link-icon" data-feather="box"></i>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="collapse" href="#projects" role="button" aria-expanded="" aria-controls="projects">
+          <i class="link-icon" data-feather="globe"></i>
           <span class="link-title">View Projects</span>
+          <i class="link-arrow" data-feather="chevron-down"></i>
         </a>
+        <div class="collapse" id="projects">
+          <ul class="nav sub-menu">
+            <li class="nav-item">
+              <a href="{{ url('/project') }}" class="nav-link">All Projects</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">CFI Student Projects</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Infrastructure</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Events</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Research & Development</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">General Fund</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Others</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Batch Reunion Project</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Students Project</a>
+            </li>
+          </ul>
+        </div>
       </li>
 
       <li class="nav-item">

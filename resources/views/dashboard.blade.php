@@ -270,7 +270,6 @@ I am an Alumnus of IIT Madras, 1992 B.Tech Graduate in Mechanical Engineering. F
 </div> <!-- row -->
 
 
-
 <div class="row">
   <div class="col-12 col-xl-12 grid-margin stretch-card">
     <div class="card overflow-hidden">
@@ -350,6 +349,157 @@ I am an Alumnus of IIT Madras, 1992 B.Tech Graduate in Mechanical Engineering. F
 
 
 
+<div class="row">
+  <div class="col-12 col-xl-12 grid-margin stretch-card">
+    <div class="card overflow-hidden">
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-baseline mb-4 mb-md-3">
+          <h3>Testimonials from our Donors</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-5 col-xl-4 grid-margin grid-margin-xl-0 stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <div class="d-flex flex-column">
+        <h3>Shri T. T. Jagannathan</h3>
+          <h6>
+                Managing Director, TTK Group of Companies | Alumnus of IIT Madras
+          </h6>
+          <div class="dropdown mb-2"></br>
+          The only hope for eliminating poverty in India is through technology. It has to be that kind of technology that benefits the people on the ground. I am happy to say that the research already funded by us through R2D2 is bringing real benefits to people with disabilities I wish to congratulate IITM for this initiative.
+          </div>
+        </div>
+      </div>
+    </div>
+ </div>
+
+
+ <div class="col-lg-7 col-xl-8 stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <img src="{{ url('/assets/images/testimonial-donor.png') }}" style="width: 100vh; height:60vh;" alt="item-image">
+      </div>
+   </div>
+  </div>
+</div> <!-- row -->
+
+
+
+
+<div class="row">
+  <div class="col-12 col-xl-12 grid-margin stretch-card">
+    <div class="card overflow-hidden">
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-baseline mb-4 mb-md-3">
+          <h3>Donor Spotlight</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-lg-5 col-xl-4 grid-margin grid-margin-xl-0 stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <div class="d-flex flex-column">
+          <img src="{{ url('/assets/images/donor_spotlight.png') }}" style="width: 50vh; height:90vh;" alt="item-image">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-7 col-xl-8 stretch-card">
+    <div class="card">
+      <div class="card-body">
+
+          <h3>Shri S. Gopalakrishnan</h3>
+          <h6>
+Chairman Axilor Ventures
+Co-founder Infosys</br>
+1977/M.Sc/PHY & 1979/MT/CS
+          </h6>
+          <div class="dropdown mb-2"></br>
+          Shri S. Gopalakrishnan represents a generation of engineer-scientists who have made India a global player in software industry.<br><br>
+Shri Gopalakrishnan joined this Institute in 1975, and graduated four years later with an M Sc in Physics and an M Tech in Computer Science. He had the foresight to join the computer industry at a time when it was still nascent in India and thus be at a place which others would seek much later. In 1979, he started his career as a Software Engineer with the Patni Computer Systems and soon rose to be its Assistant Project Manager. He was responsible for developing the distributed process control system for the LD converter at the Rourkela Steel Plant.<br><br>
+After this formative experience, Shri Gopalakrishnan had a fair idea of the shape of things to come and of how a human resource-rich country like India could dominate software industry world-wide. In an act of supreme courage, Gopalakrishnan in 1981 left a career of success and endless pampering and perks for the uncharted waters of small-scale enterprise in an industry whose future then seemed rosy only in simulation.<br><br>
+That year, along with his friends, he launched the Infosys Technologies Ltd., and Kris, as he is called by his friends, assumed the responsibility in vital areas of design, development, implementation and support of information systems for clients in the consumer products industry in the United States of America. He was also instrumental in forming a joint venture, called KSA / Infosys with the KSA group of Atlanta, heading its operations division as Vice President.<br><br>
+In 1994 Shri Gopalakrishnan returned to India as the Deputy Managing Director of his company to head its software services and technology divisions. Never one to say no, his areas of active interest include operating systems, distributed computing and distributed software development. He is a member of the ACM, IEEE and IEEE Computer Society, and he frequently lectures in India and abroad on software quality and productivity.<br><br>
+It is the likes of Shri Gopalakrishnan who give India the precious reassurance that its investment in human resources are amply justified.<br><br>
+          </div>
+      </div>
+   </div>
+  </div>
+  </div> <!-- row -->
+
+
+
+<div class="row">
+  <div class="col-12 col-xl-12 grid-margin stretch-card">
+    <div class="card overflow-hidden">
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-baseline mb-4 mb-md-3">
+            <h3>Alma <i>Matters</i></h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-5 col-xl-4 grid-margin grid-margin-xl-0 stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <div class="d-flex flex-column">
+        <p>19 July 2024</p>
+        <hr>
+        <h3>IIT Madras Alumni Revisit Their Roots and Celebrate New Beginnings</h3>
+
+          <div class="dropdown mb-2"></br>
+          It was a day filled with nostalgic reflections. It shared triumphs as esteemed alumni of IIT Madras, Dr. Shivashankar T.S., VP of Operations at INDO MIM Pvt Ltd, and Mr. Sridhara Ramachandran, VP of Aerospace Solutions Group at INDO MIM Pvt Ltd, returned to their alma mater.
+          </div>
+        </div>
+      </div>
+    </div>
+ </div>
+
+
+ <div class="col-lg-7 col-xl-8 stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <img src="{{ url('/assets/images/alma-maters.png') }}" style="width: 100vh; height:60vh;" alt="item-image">
+      </div>
+   </div>
+  </div>
+</div> <!-- row -->
+
+
+<div class="row">
+  <div class="col-12 col-xl-12 grid-margin stretch-card">
+    <div class="card overflow-hidden">
+      <div class="card-body">
+        <div class="d-flex justify-content-between align-items-baseline mb-4 mb-md-3">
+          <label for="exampleInputUsername2" class="col-sm-3 col-form-label"><h3>Sign up for Newsletter</h3></label>
+              <input type="text" class="form-control" id="exampleInputUsername2" placeholder="Email">
+              <button type="submit" class="btn btn-primary mr-2">Subsribe Now</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="card-group">
+    <div class="card"> <img src="{{ url('/assets/images/footer-last1.png') }}" style="width: 80vh; height:60vh;" alt="item-image"> </div>
+    <div class="card"> <img src="{{ url('/assets/images/footer-last2.png') }}" style="width: 80vh; height:60vh;" alt="item-image"> </div>
+    <div class="card"> <img src="{{ url('/assets/images/footer-last3.png') }}" style="width: 80vh; height:60vh;" alt="item-image"> </div>
+  </div>
 
 
 
